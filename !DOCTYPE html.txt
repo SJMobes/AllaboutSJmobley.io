@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Resume</title>
+</head>
+
+<body>
+    <div id="resume">
+        <img src="avatar.png" alt="SJ Mobley">
+        <h1>SJ Mobley</h1>
+        <p>Cell: <a href=#>317-771-7090</a>
+        <p>Web: <a href=#>https://github.com/SJMobes/AllaboutSJmobley.io</a>
+        <p>Email: <a href=#>sjmobley@iu.edu.com</a>
+        <p id="objective">Mom, writer, and medical finance professional turning complex healthcare data into clear, human‑centered communication.
+        <dl>
+            <dt>Education
+            <dd>
+                <h2>Indiana University</h2>
+                <p><strong>Major:English</strong> Applied Mathematics<br />
+                    <strong>Minor:Technical and Professional Writing</strong> Romantic Literature
+                </p>
+        </dl>
+        <dl>
+            <dt>Skills
+            <dd>
+                <h2>Office Skills</h2>
+                <p>Office and records management, database administration, 15 years of medical office experience, customer support, travel
+                   and event coordination, insurance verification and prior authorization coordination, heavy referral coordination experience, finance and retirement planning.
+                <h2>Computer skills</h2>
+                <p>Microsoft productivity software (Word, Excel, database etc),Salesforce, Zendesk and Microsoft Teams, Windows
+        </dl>
+        <dl>
+            <dt>Experience
+            <dd>
+                <h2>Golden Reserve<span> Carmel, Fishers, Brownsburg, Indiana, Atlanta, GA offices 2026 – present</span></h2>
+                <ul>
+                    <li>Client facing, legal documentation and auditing experience with Trusts, annuities and retirement finance accounts
+                    <li>Indiana Notary Licensure
+                </ul>
+                <h2>Team Rehabilitation Physical Therapy Services<span> Indianapolis, Indiana 2019 – 2025</span></h2>
+                <ul>
+                    <li>Central Patient Administrative Coordinator, including verifications, authorizations, and referral coordination
+                </ul>
+                <h2> Creme de la Creme<span>Enrollment Coordinator 2017 – 2019</span></h2>
+                <ul>
+                    <li>Marketing strategy, event planning
+                    <li>Enrollment processes, finance coordinator
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>Hobbies
+            <dd>World domination, Social Manipulation, Murder Most Foul
+        </dl>
+        <dl>
+            <dt>References
+            <dd>Available on request
+        </dl>
+    </div>
+</body>
+
+</html>
